@@ -246,4 +246,4 @@ Código distribuído sob a licença MIT. Veja [`LICENSE`](LICENSE).
 
 ---
 
-Desenvolvido por **Fernando** · [LinkedIn](https://www.linkedin.com/in/SEU-PERFIL) · [GitHub](https://github.com/SEU-USUARIO)
+Desenvolvido por **Fernando** · [LinkedIn](https://www.linkedin.com/in/fernando-kang/) · [GitHub](https://github.com/fykwork9926)
