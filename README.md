@@ -11,7 +11,8 @@ Projeto de análise de dados que usa o dataset real **Online Retail** (UCI) — 
 
 > 💡 **Problema real:** um e-commerce precisa saber quanto vai vender para planejar estoque e caixa, quais clientes merecem atenção e quais produtos sustentam a receita. Este projeto responde às três perguntas a partir dos dados brutos de vendas.
 
-![Previsão de vendas](docs/images/previsao.png)
+<img width="1650" height="750" alt="previsao" src="https://github.com/user-attachments/assets/5e9860ab-3663-4de4-b5af-1c66a32bc0ce" />
+
 
 ---
 
@@ -181,9 +182,9 @@ Lendo data/online_retail.csv...
 
 | Receita mensal | Ticket médio por país |
 |---|---|
-| ![Receita mensal](docs/images/receita_mensal.png) | ![Países](docs/images/ticket_medio_paises.png) |
+| <img width="1500" height="675" alt="receita_mensal" src="https://github.com/user-attachments/assets/e45adecd-291d-4528-bbc1-be2379e709bc" />|<img width="1350" height="780" alt="ticket_medio_paises" src="https://github.com/user-attachments/assets/f260e160-ddab-4baf-a23d-7bc4947087ca" />|
 | **Receita por segmento (RFM)** | **Receita por categoria** |
-| ![Segmentos](docs/images/segmentos_rfm.png) | ![Categorias](docs/images/categorias.png) |
+| <img width="1350" height="528" alt="segmentos_rfm" src="https://github.com/user-attachments/assets/020302b0-1ffa-419f-8abe-2d7eaae22bb6" />| <img width="1350" height="843" alt="categorias" src="https://github.com/user-attachments/assets/7b4058bc-2ab1-4f74-820d-94dc9d002c3b" />
 
 ## 🔍 Principais descobertas
 
